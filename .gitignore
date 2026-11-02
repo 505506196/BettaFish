@@ -361,3 +361,6 @@ CLAUDE.md
 findings.md
 progress.md
 task_plan.md
+
+# MindSpider 运行期生成的关键词数据
+MindSpider/data/
